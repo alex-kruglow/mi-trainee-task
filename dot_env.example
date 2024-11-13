@@ -1,0 +1,8 @@
+TITLE=MI-Trainee-Task
+PORT=8014
+
+MONGO_DB_URL=mongo_db
+MONGO_DB_DB_NAME=mi_trainee_task_db
+MONGO_DB_COLLECTION_NAME=secrets
+
+DEBUG=True
